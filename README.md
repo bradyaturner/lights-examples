@@ -1,4 +1,4 @@
-lights-animations
+lights-examples
 ==============
 
 Animations for Philips Hue using lights gem
